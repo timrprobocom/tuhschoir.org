@@ -2462,8 +2462,8 @@ a:hover,
 }
 
 #main-nav {
-    background: #001f4f;
-    border-color: #001f4f;
+    background: #c1574c;
+    border-color: #de1f4f;
 }
 
 #main-nav ul li ul,
@@ -2480,7 +2480,7 @@ body {
 #main-nav li:hover > a,
 #main-nav ul ul:hover > a,
 #main-nav a:focus {
-    background: #007fbf;
+    background: #602f26;
 }
 
 #main-nav ul li ul li a:hover,
