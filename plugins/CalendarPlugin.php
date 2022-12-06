@@ -132,7 +132,7 @@ final class CalendarPlugin extends AbstractPicoPlugin
     <table class='cal'>
     <tr><th>Date</th><th>Time</th><th>Event</th><th>Location</th></tr>
 END;
-	$now = time() - 365 * 86400;
+	$now = time(); // - 365 * 86400;
 	foreach( $db as $row )
 	{
 	    $starttm = strtotime($row->start);

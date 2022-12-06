@@ -39,9 +39,13 @@ excellence that reaches students of all socioeconomic backgrounds.
 
 The Tualatin HS Choir Boosters is a 501(c)(3) tax-exempt organization, and we actively seek tax-deductible donations to support our mission and objectives.  If you would like to help us achieve those objectives, we accept donations through PayPal.
 
+<image src='/files/BoostersPaypalQR.jpg' width=40% height=40%>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="AGY4VXB58Q8JJ" />
-<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image" />
-<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" />
+<input type="hidden" name="cmd" value="_donations" />
+<input type="hidden" name="business" value="tuhschoirboosters97062@gmail.com" />
+<input type="hidden" name="item_name" value="TuHS Choir Boosters" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>

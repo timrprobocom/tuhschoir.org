@@ -8,6 +8,7 @@ title: Menu bar
 	- [Contact Us](contactus)
  - [Volunteers](volunteers)
  - [Fund-Raising](fundraising)
+ 	- [Policy](blog/fireworks-protocol)
  - [Calendar](calendar)
  - [Pictures](pictures)
  	- [Concerts](pictures/concerts)

@@ -34,6 +34,8 @@ in exchange for having your business listed in our concert programs,
 newsletters, and Facebook feed.  For more information, please check out
 this flyer.
 
+[Click here](http://eepurl.com/dKmVSo) to sign up for our monthly newsletter.
+
 The Choir Boosters have many volunteer opportunities and we invite all choir parents to become involved.
 Please see our [Volunteer page](volunteers).
 

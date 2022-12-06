@@ -3,6 +3,7 @@ title: Quick Links
 ---
 
  * [Choir Calendar](http://www.tuhschoir.org/calendar)
+ * [Useful Forms](forms)
  * [Tualatin HS Web Page](http://tuhs.ttsdschools.org)
  * [Tigard-Tualatin School District](http://www.ttsdschools.org)
  * [Email to Kim Kroeger](mailto:kkroeger@ttsd.k12.or.us)

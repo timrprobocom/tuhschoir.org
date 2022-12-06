@@ -14,7 +14,7 @@ lot. The fireworks stand will be operational from June
 30 through July 4. Although the stand is only open for
 sales from 9 AM to 9 PM, we need volunteers to man the stand 24
 hours a day, for security purposes. &nbsp;It is important that
-we have enough volunteers. &nbsp;Please contact Charlene Carlberg at 
-[ccarlberg4@gmail.com](mailto:ccarlberg4@gmail.com?subject=Fireworks%20Stand%20Volunteer)
+we have enough volunteers. &nbsp;Please contact Jennifer Bosket at 
+[jenniferbof3@gmail.com](mailto:jenniferbof3@gmail.com?subject=Fireworks%20Stand%20Volunteer)
 to discuss how you can help us. You may click on the image to
 fetch a flyer about this opportunity.

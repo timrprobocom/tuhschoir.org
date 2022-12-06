@@ -1,194 +1,354 @@
 [
   {
-    "start": "2016-10-13T00:00",
-    "end": "2016-10-14T00:00",
+    "start": "2018-09-17T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2018-10-11T00:00",
+    "end": "2018-10-12T00:00",
     "event": "Crimsonnaires Retreat",
     "location": "Menucha"
   },
   {
-    "start": "2017-06-30",
-    "end": "2017-07-04",
-    "event": "Firework Booth",
-    "location": "Fred Meyer Parking Lot"
-  },
-  {
-    "start": "2017-09-11T19:00",
+    "start": "2018-10-15T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   },
   {
-    "start": "2017-09-23T09:00",
-    "end": "2017-09-23T17:00",
-    "event": "Mattress Sale",
-    "location": "TuHS Commons"
-  },
-  {
-    "start": "2017-10-09T19:00",
-    "end": "",
-    "event": "Choir Booster Meeting",
-    "location": "Choir Room"
-  },
-  {
-    "start": "2017-10-24T19:30",
+    "start": "2018-10-23T19:30",
     "end": "",
     "event": "Fall Concert",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2017-11-10",
-    "end": "2017-11-12",
-    "event": "Once Upon A Mattress",
+    "start": "2018-11-10",
+    "end": "2018-11-11",
+    "event": "Little Mermaid",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2017-11-13T19:00",
+    "start": "2018-11-12T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   },
   {
-    "start": "2017-11-17",
-    "end": "2017-11-19",
-    "event": "Once Upon A Mattress",
+    "start": "2018-11-18",
+    "end": "2018-11-19",
+    "event": "Little Mermaid",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2017-12-01T19:00",
-    "end": "",
-    "event": "Tualatin Tree Lighting",
-    "location": "Lake"
-  },
-  {
-    "start": "2017-12-08T21:00",
+    "start": "2018-12-06T21:00",
     "end": "",
     "event": "Grotto",
     "location": "The Grotto"
   },
   {
-    "start": "2017-12-11T19:00",
+    "start": "2018-12-07T19:00",
+    "end": "",
+    "event": "Tualatin Tree Lighting",
+    "location": "Lake"
+  },
+  {
+    "start": "2018-12-10T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   },
   {
-    "start": "2017-12-14T19:30",
+    "start": "2018-12-11T19:00",
+    "end": "",
+    "event": "Crims Christmas Caroling",
+    "location": "Tualatin Library"
+  },
+  {
+    "start": "2018-12-13T19:30",
     "end": "",
     "event": "Holiday Concert",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2017-12-15T19:30",
+    "start": "2018-12-14T19:30",
     "end": "",
     "event": "Holiday Concert",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2018-01-08T19:00",
+    "start": "2019-01-14T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   },
   {
-    "start": "2018-01-12T00:00",
-    "end": "2018-01-14T00:00",
+    "start": "2019-02-15T00:00",
+    "end": "2019-02-17T00:00",
     "event": "OMEA All-State",
-    "location": "Eugene"
-  },
-  {
-    "start": "2018-02-12T19:00",
-    "end": "",
-    "event": "Choir Booster Meeting",
-    "location": "Choir Room"
-  },
-  {
-    "start": "2018-02-24T00:00",
-    "end": "",
-    "event": "Solo &amp; Ensemble",
-    "location": "Sherwood HS"
-  },
-  {
-    "start": "2018-03-08T00:00",
-    "end": "2018-03-10T00:00",
-    "event": "ADCA All NW",
     "location": "Portland"
   },
   {
-    "start": "2018-03-12T19:00",
+    "start": "2019-02-15T00:00",
+    "end": "2019-02-17T00:00",
+    "event": "NAfME All-Northwest",
+    "location": "Portland"
+  },
+  {
+    "start": "2019-02-11T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   },
   {
-    "start": "2018-03-22T19:30",
+    "start": "2019-02-23T00:00",
+    "end": "",
+    "event": "Solo &amp; Ensemble",
+    "location": "Tualatin HS"
+  },
+  {
+    "start": "2019-03-08",
+    "end": "",
+    "event": "State Qual Festival",
+    "location": "George Fox University"
+  },
+  {
+    "start": "2019-03-11T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2019-03-19T19:30",
     "end": "",
     "event": "Spring Concert",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2018-03-26",
-    "end": "2018-03-30",
+    "start": "2019-03-24",
+    "end": "2019-04-01",
+    "event": "Aloha Choir Tour",
+    "location": ""
+  },
+  {
+    "start": "2019-03-25",
+    "end": "2019-03-29",
     "event": "Spring Break",
     "location": ""
   },
   {
-    "start": "2018-04-09T19:00",
+    "start": "2019-04-15T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   },
   {
-    "start": "2018-04-11T00:00",
+    "start": "2019-04-10T00:00",
     "end": "",
-    "event": "League",
+    "event": "League Festival",
     "location": "TBA"
   },
   {
-    "start": "2018-04-28T09:00",
+    "start": "2019-04-27T09:00",
     "end": "",
     "event": "OSAA State Solo Comp",
     "location": "Pacific University"
   },
   {
-    "start": "2018-05-05T09:00",
+    "start": "2019-05-04T09:00",
     "end": "",
     "event": "OSAA State Choral Comp",
     "location": "George Fox University"
   },
   {
-    "start": "2018-05-07T19:00",
+    "start": "2019-05-20T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   },
   {
-    "start": "2018-05-19T00:00",
-    "end": "",
-    "event": "Mozart Requiem",
-    "location": "Keller Auditorium"
-  },
-  {
-    "start": "2018-05-31T19:30",
+    "start": "2019-05-30T19:30",
     "end": "",
     "event": "Pops Concert",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2018-06-01T19:30",
+    "start": "2019-05-31T19:30",
     "end": "",
     "event": "Pops Concert",
     "location": "TuHS Auditorium"
   },
   {
-    "start": "2018-06-09T19:00",
+    "start": "2019-06-08T19:00",
+    "end": "",
+    "event": "Graduation",
+    "location": "Memorial Coliseum"
+  },
+
+  {
+    "start": "2019-09-16T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2019-10-14T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2019-10-22T19:30",
+    "end": "",
+    "event": "Fall Concert",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2019-11-9",
+    "end": "2019-11-10",
+    "event": "Cinderella",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2019-11-14T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2019-11-16",
+    "end": "2019-11-17",
+    "event": "Cinderella",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2019-12-05T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2019-12-06T21:00",
+    "end": "",
+    "event": "Grotto",
+    "location": "The Grotto"
+  },
+  {
+    "start": "2019-12-06T19:00",
+    "end": "",
+    "event": "Tualatin Tree Lighting",
+    "location": "Lake"
+  },
+  {
+    "start": "2019-12-12T19:30",
+    "end": "",
+    "event": "Holiday Concert",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2019-12-13T19:30",
+    "end": "",
+    "event": "Holiday Concert",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2020-01-09T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2020-01-16T00:00",
+    "end": "2020-01-19T00:00",
+    "event": "OMEA All-State",
+    "location": "Eugene"
+  },
+  {
+    "start": "2020-02-13T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2020-02-29T00:00",
+    "end": "",
+    "event": "Solo &amp; Ensemble",
+    "location": "Tigard HS"
+  },
+  {
+    "start": "2020-03-12T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2020-03-19T19:30",
+    "end": "",
+    "event": "Spring Concert",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2020-03-23",
+    "end": "2020-03-27",
+    "event": "Spring Break",
+    "location": ""
+  },
+  {
+    "start": "2020-04-09T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2020-04-13T00:00",
+    "end": "",
+    "event": "League Festival",
+    "location": "West Linn"
+  },
+  {
+    "start": "2020-05-01T09:00",
+    "end": "",
+    "event": "OSAA State Choral Comp",
+    "location": "George Fox University"
+  },
+  {
+    "start": "2020-05-02T09:00",
+    "end": "",
+    "event": "OSAA State Solo Comp",
+    "location": "Pacific University"
+  },
+  {
+    "start": "2020-05-14T19:00",
+    "end": "",
+    "event": "Choir Booster Meeting",
+    "location": "Choir Room"
+  },
+  {
+    "start": "2020-05-28T19:30",
+    "end": "",
+    "event": "Pops Concert",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2020-05-29T19:30",
+    "end": "",
+    "event": "Pops Concert",
+    "location": "TuHS Auditorium"
+  },
+  {
+    "start": "2020-06-04T19:00",
     "end": "",
     "event": "Graduation",
     "location": "Memorial Coliseum"
   },
   {
-    "start": "2018-06-11T19:00",
+    "start": "2020-06-08T19:00",
     "end": "",
     "event": "Choir Booster Meeting",
     "location": "Choir Room"
   }
 ]
+
+
+
